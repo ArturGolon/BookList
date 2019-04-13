@@ -1,12 +1,11 @@
 {
   "name": "BookList",
   "version": "1.0.0",
-  "description": "Responsive portfolio website",
+  "description": "book list",
   "main": "index.js",
   "homepage": "https://ArturGolon.github.io/booklist",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages -d index.html"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Artur Golon",
   "license": "MIT",
